@@ -1,0 +1,37 @@
+.td
+{
+ font-size:     22px;
+font-family:'Perpetua';
+}
+
+.t
+{
+
+    font-size:20px;
+    font-family:'segore print';
+    margin-right: 12px;
+}
+
+/*navbar menu */
+
+.nav-menu ul 
+{
+    display: flex;
+    list-style-type: none;
+}
+.nav-menu ul li{
+    margin-left: 20px;
+}
+
+
+/*nav*/
+.nav ul 
+{
+    display: flex;
+    list-style-type: none;
+}
+.nav ul li
+{
+    margin-left: 15px;
+    font-size: 18px;
+}

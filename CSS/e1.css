@@ -1,0 +1,40 @@
+
+.nav-menu ul
+{
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    
+}
+.nav-menu ul li
+{
+  margin-left: 25px;  
+}
+
+.tr td 
+{
+    margin-left: 40px; 
+}
+
+.t 
+{
+    font-size:20px;
+    font-family:'segore print';
+    margin-right: 12px;
+}
+
+.nav ul
+{
+    display: flex;
+    list-style-type: none;
+}
+.nav li
+{
+    margin-left: 25px;
+}
+.i
+{
+    margin-left: 198px;
+    margin-bottom: 30px;
+    margin-top: 0px;
+}
